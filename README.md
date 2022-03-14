@@ -23,13 +23,25 @@
 
 ## `CHANGE SESSION`
 
-[`Click Here`](https://github.com/zeeoneofc/Alphabot7/blob/master/session.json#L1)
+[`{
+
+	"clientID": "aLIrefY/JIFjle3ZjxT5Fw==",
+
+	"serverToken": "1@kARbfO0NBhFn4rrXkBXEq12w9sFF0DvgwOHhWsQV8pXLT3iNSEp03oazdTKWhKqqKnb8SNte28gKFA==",
+
+	"clientToken": "2Oz7d8rIMx0zlfVWu3MGJb6eEl7cDr5UbL6y0GdctnM=",
+
+	"encKey": "Zu1WPyACk2edJMow3ZXqa9q/jQ0otCcz7HYgc4XOzW4=",
+
+	"macKey": "RWjChzh6MxvrzWwW37HDD3kRAtMorW+OozDqCpFp+OE="
+
+}`](https://github.com/zeeoneofc/Alphabot7/blob/master/session.json#L1)
 
 ## `SETTING`
 
-- Owner number [Here](https://github.com/zeeoneofc/Alphab0t9/blob/master/settings.json#L10)
-- Owner name [Here](https://github.com/zeeoneofc/Alphab0t9/blob/master/settings.json#L19)
-- Botname [Here](https://github.com/zeeoneofc/Alphab0t9/blob/master/settings.json#L20)
+- Owner number [601111829561](https://github.com/zeeoneofc/Alphab0t9/blob/master/settings.json#L10)
+- Owner name [𓏲 ֗ ⌗ 🧋 ⴖ𝘹ᥣyⴖɦ 🥞 お ִֶָ 𓄼](https://github.com/zeeoneofc/Alphab0t9/blob/master/settings.json#L19)
+- Botname [nxlynhBot](https://github.com/zeeoneofc/Alphab0t9/blob/master/settings.json#L20)
 
 ## `CHANGE DYNO`
 
